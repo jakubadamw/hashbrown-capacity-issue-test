@@ -1,0 +1,9 @@
+[package]
+name = "hashbrown-capacity-issue-test"
+version = "0.1.0"
+authors = ["Jakub Wieczorek <jakub.adam.wieczorek@gmail.com>"]
+edition = "2018"
+
+[dev-dependencies]
+ahash = "0.2"
+hashbrown = "0.6"
